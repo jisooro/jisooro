@@ -1,7 +1,9 @@
-Hello, I’m @jisooro. Nice to meet you!
+Hello, I’m **@jisooro**. Nice to meet you! :cherry_blossom:
 
-I’m a Software Engineer / React Native Developer. Welcome to my Github repository!!
-I’ve been working as a Freelancer since 2019 and when I started to learn to program mobile apps in React Native, I decided that was the path I wanted to take in my career. Feel free to check my portfolio, there are several projects that I've participated for different clients and also some of my personal projects.
+I’m a **Software Engineer / React JS & Native Developer**. Welcome to my Github repository!!
+
+Been working as a freelancer since 2019 as a Fullstack React JS and React Native and I'm still and always will be learning. :memo: 
+Feel free to check my portfolio, there are several projects that I've participated on for different clients, some of my own and also projects of my learning journey.
 
 You can reach me here:
 jisooro98@gmail.com
